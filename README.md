@@ -2,7 +2,7 @@
 
 Proyecto de IA para clasificar plazas de aparcamiento como `Libre` u `Ocupado` a partir de imágenes y video.
 
-## Descripcion
+## Descripción
 
 El notebook `Deteccion_parking.ipynb` entrena un modelo **KNN** con recortes de plazas etiquetadas y aplica la detección:
 
